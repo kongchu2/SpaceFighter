@@ -8,6 +8,10 @@
 ### DownLoad
 https://drive.google.com/file/d/1ugOkthWLw5y4xCQf_rcLmrEQKEpeKNDt/view?usp=sharing
 
+### Manual
+- Move: W, A, S, D    OR    Arrows
+- Skill: Q
+
 ### Built With
 - 게임 엔진(Game Engine): Unity(C#)
 - 3D Models, Resource: Unity Asset Store, OpenGameArt
