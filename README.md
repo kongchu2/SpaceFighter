@@ -5,9 +5,6 @@
 <img src="https://user-images.githubusercontent.com/48686444/86331878-a816e880-bc84-11ea-843d-de45bb8505e0.png" width="820x" height="504px"></img>  
 ###### TopView Shooting Game.
 
-### DownLoad
-https://drive.google.com/file/d/1ugOkthWLw5y4xCQf_rcLmrEQKEpeKNDt/view?usp=sharing
-
 ### Manual
 - Move: W, A, S, D    OR    Arrows
 - Skill: Q
